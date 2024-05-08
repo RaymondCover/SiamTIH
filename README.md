@@ -23,6 +23,6 @@ This repo is based on SAOT, ViPT and OSTrack, helps us to quickly implement our 
 
 - [SAOT](https://github.com/ZikunZhou/SAOT) [[related paper](https://https://arxiv.org/abs/2108.03637)]
 - [OSTrack](https://github.com/botaoye/OSTrack) [[related paper](https://arxiv.org/abs/2203.11991)]
-- [ViPT](https://github.com/ZikunZhou/SAOT) [[related paper]([https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)]
+- [ViPT](https://github.com/ZikunZhou/SAOT)[[related paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)]
 
 
